@@ -1,4 +1,4 @@
-### Welcome to my github 👋
+### Hello there, welcome to my github 👋
 
 - 🔭 I’m currently working on an Android App.
 - 🌱 I’m currently learning Machine Learning and Tableau.
