@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains.
 
-### **Technologies that I have worked on professionally**
+### **Technologies that I work on:**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="80" height="80" alt="MySQL">
@@ -21,7 +21,7 @@
 <img src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/05/informatica-powercenter-logo.png?resize=150%2C150&ssl=1" width="80" height="80" alt="Informatica">
 </p>
 
-### **Technologies that I have worked on**
+### **Technologies that I've worked on:**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/c-2975.svg" width="80" height="80" alt="C">
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="80" height="80" alt="C++">
