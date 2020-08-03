@@ -1,5 +1,7 @@
 ### Hello there, welcome to my github 👋
 
+I am an Electronics and Communications Engineer and I graduated in 2016, I've worked as a BI developer in Infosys for 2.1 years.
+
 - 🔭 I’m currently working on an Android App.
 - 🌱 I’m currently learning Machine Learning and Tableau.
 - 👯 I’m looking to collaborate on a basic online multiplayer app that runs on Android.
@@ -9,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like trains.
 
-### **Technologies that I work on:**
+### **Technologies that I currently work on:**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="80" height="80" alt="MySQL">
