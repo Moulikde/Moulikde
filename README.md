@@ -5,7 +5,7 @@ I am an Electronics and Communications Engineer and I graduated in 2016, I've wo
 - 🎓 I’m currently persuing my Master's Degree in Business Analytics with a Data Engineering Focus.
 - 🌱 I’m learning AWS and Tableau on the side.
 - 👯 I’m looking to collaborate on a beginner Data Engineering/Analytics projects.
-- 🤔 I’m looking for help with learning Cloud Data Engineering.
+- 🤔 I’m working and trying to break into Cloud Data Engineering.
 - 💬 Ask me about ETL, SQL and UNIX scripting.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moulikde/)
 - ⚡ Fun fact: I like Video Games.
