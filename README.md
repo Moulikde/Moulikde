@@ -37,8 +37,6 @@ I am an Electronics and Communications Engineer and I graduated in 2016, I've wo
 ### **Technologies/Software I am familiar with:**
 <p>
 <img src="https://i.ya-webdesign.com/images/android-studio-png.png" width="80" height="80" alt="Android Studio">
-<img src="https://pngimg.com/uploads/photoshop/photoshop_PNG61.png" width="80" height="80" alt="Adobe Photoshop">
-<img src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png" width="80" height="80" alt="Adobe Premier Peo">
 <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" width="80" height="80" alt="Adobe After Effects">
 <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="80" height="80" alt="Unity">
 </p>
