@@ -15,7 +15,7 @@ I am an Electronics and Communications Engineer and I graduated in 2016, I've wo
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="80" height="80" alt="MSSQL">  
 <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="80" height="80" alt="Oraclesqldev&odi">
-<img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" width="80" height="80" alt="Oracle Sql Dev">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="80" height="80" alt="AWS">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" height="80" alt="MS Excel">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="80" height="80" alt="Power BI">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80" height="80" alt="Tableau">
