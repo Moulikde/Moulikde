@@ -13,11 +13,11 @@ I am an Electronics and Communications Engineer and I graduated in 2016, I've wo
 ### **Technologies that I currently work on:**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="80" height="80" alt="MSSQL">
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="80" height="80" alt="MongoDB">  
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="80" height="80" alt="MSSQL">  
 <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="80" height="80" alt="Oraclesqldev&odi">
-<img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" width="80" height="80" alt="Oracle Sql Dev">  
-<img src="http://www.deepanshugahlaut.com/wp-content/uploads/2014/10/Unix-OS-1300x975.png" width="80" height="80" alt="UNIX">  
+<img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" width="80" height="80" alt="Oracle Sql Dev">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" height="80" alt="MS Excel">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="80" height="80" alt="Power BI">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="80" height="80" alt="Tableau">
 </p>
 
@@ -30,6 +30,8 @@ I am an Electronics and Communications Engineer and I graduated in 2016, I've wo
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="80" height="80" alt="Javascript">
 <img src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/05/informatica-powercenter-logo.png?resize=150%2C150&ssl=1" width="80" height="80" alt="Informatica">
 <img src="https://www.parc-consulting.com/wp-content/uploads/2019/06/oracle-data-integrator2-e1561567521747.png" width="80" height="80" alt="Oracle ODI">
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="80" height="80" alt="MongoDB">
+<img src="http://www.deepanshugahlaut.com/wp-content/uploads/2014/10/Unix-OS-1300x975.png" width="80" height="80" alt="UNIX">
 </p>
 
 ### **Technologies/Software I am familiar with:**
