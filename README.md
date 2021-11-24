@@ -9,3 +9,5 @@ I am an Electronics and Communications Engineer and I graduated in 2016, I've wo
 - 💬 Ask me about ETL and Data Engineering.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moulikde/)
 - ⚡ Fun fact: I like Stand up comedy, what's the deal with Airplane food? Can't live with it, can't live without it.
+
+I am working on my github and will get it sorted soon. I will show case all the projects I talked about in my Resume and many more projects I've been doing on the side.
