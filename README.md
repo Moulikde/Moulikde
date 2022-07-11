@@ -1,6 +1,6 @@
 ### Hello there, welcome to my GitHub
 
-I am a BI developer with 2 years of professional experience 
+I am a BI developer with 2 years of professional experience and an aspiring Data Engineer with great interest in Machine Learning Methodologies.
 
 - I’m currently pursuing my Master's Degree in Business Analytics with a Data Engineering Focus.
 - I’m learning Cloud Computing, Machine Learning, and Tableau.
